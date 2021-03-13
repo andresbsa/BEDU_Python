@@ -11,6 +11,9 @@ Inicialmente se identificaron los datasets más relevantes para el tema dentro d
 Por otr lado, también se identificó la base de datos sobre Pobreza y Educación del Banco Mundial. Especificamente, se identificaron los datasets sobre la Tasa de incidencia de la pobreza, sobre la base de la línea de probreza nacional (POV.NAHC), la *Poverty headcount ratio at $5.50 a day* (POV.UMIC) y la Tasa de incidencia de la pobreza, sobre la base de $1.90 por día (POV.DDAY). Estos datasets se pueden encontrar [aquí](https://data.worldbank.org/topic/poverty?view=chart). En el tema de Educación ...
 
 Archivos "raw" `.csv` con los datos del INEGI:
+
 [Datos de *concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
+
 [Datos de *población*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
+
 [Datos de *ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_ingresos_enigh_2018_ns.csv)

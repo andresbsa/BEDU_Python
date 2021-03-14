@@ -1,5 +1,8 @@
 # Educación y Nivel Socioeconómico
-Equipo 19
+**Equipo 19**
+- Orlando Aguilar
+- Mario Encinas
+- Andrés Sánchez
 
 ## Proyecto del módulo de Procesamiento de Datos con Python en el curso de Data Analysis (Santander) de BEDU
 

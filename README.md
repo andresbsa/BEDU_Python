@@ -1,6 +1,10 @@
 # BEDU_Python
 ## Proyecto del módulo de Procesamiento de Datos con Python en el curso de Data Analysis (Santander) de BEDU
 
+### Jupyter Notebook
+
+La libreta en Google Colaboratory con el desarrollo y el programa se puede ver [aquí](https://colab.research.google.com/drive/1INiQblT00YUsz3fwX0n_E9ZCO4vao8nu?usp=sharing).
+
 ### Introducción
 
 Según datos del Banco Mundial, México es un país con un nivel socioeconómico medio-alto, y es una de las principales economías de Latinoamérica. Sin embargo, el porcentaje de población que vive en pobreza es alarmantemente alto.
@@ -37,8 +41,6 @@ La base de datos del Banco Mundial tiene su propia API con una librería de Pyth
 
 Archivos "raw" `.csv` con los datos del INEGI:
 
-[Datos de *concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
-
-[Datos de *población*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
-
-[Datos de *ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_ingresos_enigh_2018_ns.csv)
+- Datos de [*concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
+- Datos de [*población*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
+- Datos de [*ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_ingresos_enigh_2018_ns.csv)

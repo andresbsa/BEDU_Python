@@ -6,6 +6,10 @@
 
 ## Proyecto del módulo de Procesamiento de Datos con Python en el curso de Data Analysis (Santander) de BEDU
 
+### Video presentación
+
+La presentación de este trabajo se puede ver en el video [aquí](url).
+
 ### Jupyter Notebook
 
 La libreta en Google Colaboratory con el desarrollo y el programa se puede ver [aquí](https://colab.research.google.com/drive/1INiQblT00YUsz3fwX0n_E9ZCO4vao8nu?usp=sharing).
@@ -32,9 +36,7 @@ Preguntas de interés:
 - ¿Hay una diferencia en los niveles de ingresos de los individuos con únicamente estudios de nivel primaria respecto a los de secundaría?
 - ¿El nivel de estudios de un país aumenta en la misma medida que disminuye la pobreza?
 
-
-
-### Datasets
+### Datasets recopilados
 
 Inicialmente se identificaron los datasets más relevantes para el tema dentro de la Encuesta Nacional de Ingresos y Gastos de los Hogares (**ENIGH**) del INEGI de 2018. La documentación de la base de datos general se puede encontrar [aquí](https://www.inegi.org.mx/programas/enigh/nc/2018/#Documentacion). Se descargaron los datasets sobre las viviendas mexicanas relacionada con el nivel socioeconómico y los diferentes tipo de ingresos que recibieron (salarios, comisiones, aguinaldo, trabajo subordinado, etc.) (***concentrado_hogar***), sobre la sociodemografía de las viviendas por cada integrante (***población***) y sobre los ingresos que recibió cada integrante de vivienda en los 6 meses previos al momento de la encuesta (***ingresos***).
 
@@ -49,3 +51,8 @@ Los archivos "raw" `.csv` descargados con los datos del INEGI se encuentran en e
 - Datos de [*concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
 - Datos de [*población*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
 - Datos de [*ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_ingresos_enigh_2018_ns.csv)
+
+### Datasets generados
+Los DataFrames generados a partir del procesamiento de los datos recopilados del INEGI y del Banco Mundial también se pueden accesar en este repositorio:
+- Datos del INEGI: [*poblacion_completo*](url)
+- Datos del Banco Mundial: [*indicadores_pobreza_y_educacion*](url), [*indicadores_educacion*](url)

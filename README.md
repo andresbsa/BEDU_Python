@@ -1,4 +1,6 @@
-# BEDU_Python
+# Educación y Nivel Socioeconómico
+Equipo 19
+
 ## Proyecto del módulo de Procesamiento de Datos con Python en el curso de Data Analysis (Santander) de BEDU
 
 ### Jupyter Notebook

@@ -8,7 +8,7 @@
 
 ### Video presentación
 
-La presentación de este trabajo se puede ver en el video [aquí](url).
+La presentación de este trabajo se puede ver en el video [aquí](https://www.dropbox.com/s/cti506mhos2q1bl/proyecto%20educacion%20ingresos.mp4?dl=0).
 
 ### Jupyter Notebook
 

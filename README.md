@@ -14,6 +14,9 @@ La presentación de este trabajo se puede ver en el video [aquí](url).
 
 La libreta en Google Colaboratory con el desarrollo y el programa se puede ver [aquí](https://colab.research.google.com/drive/1INiQblT00YUsz3fwX0n_E9ZCO4vao8nu?usp=sharing).
 
+La Jupyter Notebook con el mismo contenido se encuentra disponible en este repositorio:
+- [analisis_estudios_y_economia.ipynb](url)
+
 ### Introducción
 
 Según datos del Banco Mundial, México es un país con un nivel socioeconómico medio-alto, y es una de las principales economías de Latinoamérica. Sin embargo, el porcentaje de población que vive en pobreza es alarmantemente alto.
@@ -42,9 +45,9 @@ Preguntas de interés:
 Inicialmente se identificaron los datasets más relevantes para el tema dentro de la Encuesta Nacional de Ingresos y Gastos de los Hogares (**ENIGH**) del INEGI de 2018. La documentación de la base de datos general se puede encontrar [aquí](https://www.inegi.org.mx/programas/enigh/nc/2018/#Documentacion). Se descargaron los datasets sobre las viviendas mexicanas relacionada con el nivel socioeconómico y los diferentes tipo de ingresos que recibieron (salarios, comisiones, aguinaldo, trabajo subordinado, etc.) (***concentrado_hogar***), sobre la sociodemografía de las viviendas por cada integrante (***población***) y sobre los ingresos que recibió cada integrante de vivienda en los 6 meses previos al momento de la encuesta (***ingresos***).
 
 Los datasets del INEGI se descargaron directamente del portal. Los archivos "raw" `.csv` descargados con los datos del INEGI se encuentran en este mismo repositorio:
-- Datos de [*concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
-- Datos de [*datos_poblacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
-- Datos de [*datos_ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/conjunto_de_datos_ingresos_enigh_2018_ns.csv)
+- Datos de [*concentrado_hogar*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Data_raw/conjunto_de_datos_concentradohogar_enigh_2018_ns.csv)
+- Datos de [*datos_poblacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Data_raw/conjunto_de_datos_poblacion_enigh_2018_ns.csv)
+- Datos de [*datos_ingresos*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Data_raw/conjunto_de_datos_ingresos_enigh_2018_ns.csv)
 
 Por otro lado, también se identificó la base de datos sobre Pobreza y Educación del Banco Mundial. Especificamente, se identificaron los datasets sobre la Tasa de incidencia de la pobreza, sobre la base de la línea de probreza nacional (POV.NAHC), la *Poverty headcount ratio at $5.50 a day* (POV.UMIC) y la Tasa de incidencia de la pobreza, sobre la base de $1.90 por día (POV.DDAY). Estos datasets se pueden encontrar [aquí](https://data.worldbank.org/topic/poverty?view=chart). En el tema de Educación se identificaron los datasets sobre Transición a la escuela secundaria (SE.SEC.PROG.ZS), Inscripción escolar, nivel primario (SE.PRM.ENRR), Inscripción escolar, nivel secundario (SE.SEC.ENRR) e Inscripción escolar, nivel terciario (SE.TER.ENRR). Estos datasets se pueden encontrar [aquí](https://datos.bancomundial.org/tema/educacion?view=chart).
 
@@ -52,5 +55,5 @@ La base de datos del Banco Mundial tiene su propia API con una librería de Pyth
 
 ### Datasets generados
 Los DataFrames generados a partir del procesamiento de los datos recopilados del INEGI y del Banco Mundial también se pueden accesar en este repositorio:
-- Datos del INEGI: [*concentrado*](url), [*poblacion_completo*](url)
-- Datos del Banco Mundial: [*indicadores_pobreza_y_educacion*](url), [*indicadores_educacion*](url)
+- Datos del INEGI: [*concentrado*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/concentrado.csv), [*poblacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion.csv) [*poblacion_completo*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion_laboral.csv)
+- Datos del Banco Mundial: [*indicadores_pobreza_y_educacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/indicadores_pobreza_y_educacion.csv), [*indicadores_educacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/indicadores_educacion.csv)

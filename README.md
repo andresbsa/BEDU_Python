@@ -55,5 +55,5 @@ Los archivos "raw" `.csv` descargados con los datos del INEGI se encuentran en e
 
 ### Datasets generados
 Los DataFrames generados a partir del procesamiento de los datos recopilados del INEGI y del Banco Mundial también se pueden accesar en este repositorio:
-- Datos del INEGI: [*poblacion_completo*](url)
+- Datos del INEGI: [*concentrado*](url), [*poblacion_completo*](url)
 - Datos del Banco Mundial: [*indicadores_pobreza_y_educacion*](url), [*indicadores_educacion*](url)

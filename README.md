@@ -15,7 +15,7 @@ La presentación de este trabajo se puede ver en el video [aquí](url).
 La libreta en Google Colaboratory con el desarrollo y el programa se puede ver [aquí](https://colab.research.google.com/drive/1INiQblT00YUsz3fwX0n_E9ZCO4vao8nu?usp=sharing).
 
 La Jupyter Notebook con el mismo contenido se encuentra disponible en este repositorio:
-- [analisis_estudios_y_economia.ipynb](url)
+- [analisis_estudios_y_economia.ipynb](https://github.com/andresbsa/BEDU_Python/blob/main/analisis_estudios_y_economia.ipynb)
 
 ### Introducción
 

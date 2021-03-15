@@ -30,7 +30,7 @@ Con el análisis propuesto se espera obtener información que proporcione una me
 
 Preguntas de interés:
 
-- ¿existe una correlación entre el nivel educativo y el nivel de ingresos?
+- ¿Existe una correlación entre el nivel educativo y el nivel de ingresos?
 - ¿La educación universitaria garantiza un mayor nivel socioeconómico?
 - ¿En qué medida afecta el nivel socioeconómico a las posibilidades de estudiar?
 - ¿Cuál es la relación entre el nivel socioeconómico de los individuos con un cierto grado de estudios respecto a otro?

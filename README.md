@@ -55,5 +55,5 @@ La base de datos del Banco Mundial tiene su propia API con una librería de Pyth
 
 ### Datasets generados
 Los DataFrames generados a partir del procesamiento de los datos recopilados del INEGI y del Banco Mundial también se pueden accesar en este repositorio:
-- Datos del INEGI: [*concentrado*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/concentrado.csv), [*poblacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion.csv) [*poblacion_completo*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion_laboral.csv)
+- Datos del INEGI: [*concentrado*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/concentrado.csv), [*poblacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion.csv) [*poblacion_laboral*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/poblacion_laboral.csv)
 - Datos del Banco Mundial: [*indicadores_pobreza_y_educacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/indicadores_pobreza_y_educacion.csv), [*indicadores_educacion*](https://raw.githubusercontent.com/andresbsa/BEDU_Python/main/Datasets/indicadores_educacion.csv)
